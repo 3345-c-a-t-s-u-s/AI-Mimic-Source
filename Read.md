@@ -34,6 +34,11 @@ AI.Event.Event:Connect(function(TargetChase,Boolen)
 	end
 end)
 
+local Min = 10
+local Max = 25
+
+AI:SetSpeed‎(Min,Max)
+
 AI.Debug = false
 local Assignment = {
 	['LoopPoints'] = workspace:WaitForChild('LoopPoints'),
