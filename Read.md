@@ -1,4 +1,5 @@
 # AI MIMIC BOOK 2 - MAKE BY CAT_SUS
+#  GIVE A CREDIT OR DIED
 
 ## ⬇ Module Source ⬇
 https://github.com/3345-c-a-t-s-u-s/AI-Mimic-Source/blob/main/AISource.lua
